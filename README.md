@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SarvendeSingh
+- 👋 Hi, I’m @SarvenderSingh
 - 👀 I’m interested in Coding and playing cricket
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on github 
